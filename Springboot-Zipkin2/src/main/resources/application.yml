@@ -1,0 +1,4 @@
+server:
+  port: 8082
+  session-timeout: 60
+  Name: test-name
